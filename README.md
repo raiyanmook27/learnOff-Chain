@@ -1,2 +1,10 @@
 # learnOff-Chain
+
 Learning everything about off-chain in blockchain development
+
+### TO KNOW :
+
+- ETHERS.PROVIDER - CONNECT TO BLOCKCHAIN NODE
+- ETHERS.WALLET - CONNECT TO A WALLET
+- ETHERS.CONTRACT - INTERACT AND DEPLOY CONTRACT
+- ETHERS.UTILS - FORMAT DATA
